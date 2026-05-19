@@ -1,5 +1,5 @@
 """
-Forward Kinematics for UR5 6 DOF Robotic Arm
+Forward Kinematic Utils for UR5 6 DOF Robotic Arm
 
 DH Parameters taken from here: 
 https://www.universal-robots.com/articles/ur/application-installation/dh-parameters-for-calculations-of-kinematics-and-dynamics/
